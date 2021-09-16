@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "jah",
+  "address": "0x6ae089D92a2E88CA18a2d463aD32849cB41C4D0f",
+  "risk": "G",
+  "title": "Gas Saving by changing the visibility of initialize function from public to externa in basket.sol",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/4"
+}
