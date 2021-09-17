@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "bw",
+  "address": "0x3d977eF4855A526500E901bFA43c209E0C51BA84",
+  "risk": "G",
+  "title": "`handleFees()` wasting gas if called multiple times in the same block",
+  "issueId": 16,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/16"
+}
