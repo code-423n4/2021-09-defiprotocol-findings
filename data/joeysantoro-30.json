@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "joeysantoro",
+  "address": "0x25Cb5b18A3D6C7cf562dE456ab8368ED577C0173",
+  "risk": "1",
+  "title": "Cannot change pending while timelocked",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/30"
+}
