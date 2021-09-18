@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "3",
+  "title": "Reentrancy in settleAuction(): malicious publisher can bypass index timelock mechanism, inject malicious index, and rug the basket",
+  "issueId": 31,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/31"
+}
