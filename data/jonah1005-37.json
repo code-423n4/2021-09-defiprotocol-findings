@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "jonah1005",
+  "address": "0xd7f69D59B6E8E6f3031B12f692d468bC88Ebdd97",
+  "risk": "1",
+  "title": "TIMELOCK_DURATION is not set to 1 day",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/37"
+}
