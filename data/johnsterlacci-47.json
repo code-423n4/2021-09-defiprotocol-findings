@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "johnsterlacci",
+  "address": "0xc7BDD438CbEd7701DA476aeBec99cF2Db4d65bb7",
+  "risk": "1",
+  "title": "Basket/Auction Singletons Are Interactable",
+  "issueId": 47,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/47"
+}
