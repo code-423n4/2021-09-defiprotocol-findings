@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "2",
+  "title": "Basket becomes unusable if everybody burns their shares",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/64"
+}
