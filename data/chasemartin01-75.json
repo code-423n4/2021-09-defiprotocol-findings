@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "chasemartin01",
+  "address": "0x504A722a06596490DFBbc38432EB75417c7270e9",
+  "risk": "G",
+  "title": "Use calldata instead of memory in function parameter declarations",
+  "issueId": 75,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/75"
+}
