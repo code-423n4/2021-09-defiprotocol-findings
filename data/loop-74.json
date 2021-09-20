@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "loop",
+  "address": "0xe88cAc4e10C4D316E0d52B82dd54f26ade3f0Bb2",
+  "risk": "2",
+  "title": "Initialize function of Basket can be invoked multiple times",
+  "issueId": 74,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/74"
+}
