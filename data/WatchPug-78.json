@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "G",
+  "title": "Basket.sol#handleFees() check if timeDiff > 0 can save gas",
+  "issueId": 78,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/78"
+}
