@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "2",
+  "title": "Bonding mechanism allows malicious user to DOS auctions",
+  "issueId": 66,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/66"
+}
