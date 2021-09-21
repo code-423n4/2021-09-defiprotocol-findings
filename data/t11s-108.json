@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "t11s",
+  "address": "t11s.eth",
+  "risk": "G",
+  "title": "settleAuction should be external and arguments should use calldata",
+  "issueId": 108,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/108"
+}
