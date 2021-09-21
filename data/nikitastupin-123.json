@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "nikitastupin",
+  "address": "0x84F9079a9A39ae80Cf9DEE65a0E316B1a897684A",
+  "risk": "0",
+  "title": "Timelocked functions doesn't emit proposal events",
+  "issueId": 123,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/123"
+}
