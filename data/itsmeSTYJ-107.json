@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "itsmeSTYJ",
+  "address": "0xBCa294543b46fF11CFAFbCF67434BEa23c21404b",
+  "risk": "3",
+  "title": "Withdrawing bounties after checking balances can lead to the entire basket being drained.",
+  "issueId": 107,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/107"
+}
