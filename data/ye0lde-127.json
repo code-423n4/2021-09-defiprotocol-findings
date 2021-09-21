@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "ye0lde",
+  "address": "0x81D4cf8A3892557e4a1571e97b88f0351eF0dcFD",
+  "risk": "0",
+  "title": " Protocol owner fee limit not verified correctly (Factory.sol)",
+  "issueId": 127,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/127"
+}
