@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "shenwilly",
+  "address": "0x8b21033337a7066bCFf10Fe0b3CA2A9DA1c58A1d",
+  "risk": "0",
+  "title": "Redundant Balance Check",
+  "issueId": 85,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/85"
+}
