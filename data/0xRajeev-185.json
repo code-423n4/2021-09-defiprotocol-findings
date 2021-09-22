@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Publisher role cannot be renounced",
+  "issueId": 185,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/185"
+}
