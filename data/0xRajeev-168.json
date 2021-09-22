@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "3",
+  "title": "Incorrect data location specifier can be abused to cause DoS and fund loss",
+  "issueId": 168,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/168"
+}
