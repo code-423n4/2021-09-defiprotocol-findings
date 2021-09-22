@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "hrkrshnn",
+  "address": "0x58993cFa67cD6151EC3D806AE93a7Ed365dB2f88",
+  "risk": "G",
+  "title": "State variables that can be set to immutable",
+  "issueId": 233,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/233"
+}
