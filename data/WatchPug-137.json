@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "G",
+  "title": "`Auction.sol#initialize()` Use msg.sender rather than factory_ parameter can save gas",
+  "issueId": 137,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/137"
+}
