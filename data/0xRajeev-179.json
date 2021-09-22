@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Separate proposeBasketLicense() and createBasket() functions may lead to unexpected behavior ",
+  "issueId": 179,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/179"
+}
