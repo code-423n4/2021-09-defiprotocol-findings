@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Use unchecked{} where the underlying arithmetic can be determined to not overflow/underflow ",
+  "issueId": 152,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/152"
+}
