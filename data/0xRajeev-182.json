@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "3",
+  "title": "Basket can be initialized multiple times to completely take over the Basket contract ",
+  "issueId": 182,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/182"
+}
