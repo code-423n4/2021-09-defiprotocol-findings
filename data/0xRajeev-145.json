@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Caching state variables in local/memory variables avoids SLOADs to save gas",
+  "issueId": 145,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/145"
+}
