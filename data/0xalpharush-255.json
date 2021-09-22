@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "0xalpharush",
+  "address": "0x091dA6d5845B18D4147B45472497fF91b768C132",
+  "risk": "2",
+  "title": "Basket.handleFees() (contracts/Basket.sol#110-129) performs a multiplication on the result of a division",
+  "issueId": 255,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/255"
+}
