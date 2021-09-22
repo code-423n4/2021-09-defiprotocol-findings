@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "hack3r-0m",
+  "address": "0x825aE6fb177186e9551ab1CDd6D4aB10B22A0Dba",
+  "risk": "2",
+  "title": "Use safeTransfer instead of transfer",
+  "issueId": 196,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/196"
+}
