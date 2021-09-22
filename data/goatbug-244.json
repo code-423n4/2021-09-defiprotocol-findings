@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "goatbug",
+  "address": "0x02FA893CD8FCFAc3587e462E3Faa5AA29946FC06",
+  "risk": "2",
+  "title": "Front running basket Creation",
+  "issueId": 244,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/244"
+}
