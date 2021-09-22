@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Using the latest compiler version may be susceptible to undiscovered bugs",
+  "issueId": 180,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/180"
+}
