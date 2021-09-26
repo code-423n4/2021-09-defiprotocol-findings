@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "leastwood",
+  "address": "0x28235de0121700a462b5098cff7d3615b050551f",
+  "risk": "2",
+  "title": "`bondBurn()` Leads to Unrecoverable Tokens",
+  "issueId": 277,
+  "issueUrl": "https://github.com/code-423n4/2021-09-defiprotocol-findings/issues/277"
+}
